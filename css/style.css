@@ -1,0 +1,210 @@
+#title{
+font-family: "Meriweather";
+
+}
+
+.logo{
+  width:10%;
+}
+
+.nav-item{
+  font-size:20px;
+  font-weight: bold;
+  padding-left: 7px;
+  padding-right: 7px;
+  font-family: 'Merriweather Sans', sans-serif;
+
+}
+.container-fluid{
+  padding: 2.5% ;
+
+  }
+  nav .navbar-nav li a{
+  color: #1c1427 !important;
+
+  }
+  .btn-primary{
+    border-radius:20px;
+    font-weight: bold;
+  }
+#section1{
+  width:100%;
+  height:70px;
+  background-color: #118df0;
+  margin-left: 10px;
+}
+.home nav-link{
+  color: #4a47a3;
+}
+.call{
+
+  font-size: 20px;
+  font-weight: bold;
+}
+p{
+  color:white;
+padding:5px;
+text-align: right;
+
+}
+#section2{
+  margin-left: 10px;
+
+  background-color:#4a47a3;
+  height:600px;
+  text-align: center;
+  color: white;
+font-family: 'Fira Sans Condensed', sans-serif;
+width:100%;
+}
+.title-image{
+  width:100%;
+top:70px;
+position: relative;
+
+
+}
+.about{
+  text-align: left;
+font-size: 20px;
+line-height: 2.5rem;
+
+}
+.blog{
+  padding: 5% 5% 5%;
+}
+.text{
+  font-size: 60px;
+}
+.blog1{
+  position:relative;
+  width:400px;
+  height:400px;
+  background-color: #118df0;
+  left:100px;
+  text-align:left;
+  padding-top: 4%;
+  padding-left: 2%;
+  color:white;
+  }
+.blog2{
+  position:relative;
+  width:400px;
+  height:400px;
+  background-color: #7c6fff;
+left:100px;
+text-align:left;
+padding-top: 4%;
+padding-left: 2%;
+color:white;
+
+}
+.blog3{
+  position:relative;
+  width:400px;
+  height:400px;
+  background-color: #9973e2;
+left:100px;
+text-align: left;
+padding-top: 4%;
+padding-left:1%;
+color:white;
+
+}
+.text1{
+  text-align:left;
+  padding-top: 5%;
+  padding-right:15%;
+
+}
+.link{
+  color:white
+}
+.link:hover{
+  color:white;
+  text-decoration:none;
+}
+h5{
+  font-size: 30px;
+}
+h4{
+  font-size: 15px;
+}
+h3{
+  padding-top: 5%;
+}
+#section4{
+
+  background-color:white;
+  height:300px;
+  text-align: center;
+  padding-top: 6%;
+}
+
+#features{
+padding-top: 7% ;
+
+}
+.our{
+  color:#6163d3;
+   }
+hr{
+  position: relative;
+  width:90px;
+  border: none;
+  height: 2px;
+  background:#6163d3 ;
+}
+.about1{
+color:#222831;
+text-align: center;
+margin-left: 13%;
+margin-right: 10%;
+font-family: 'ubuntu';
+font-size: 20px;
+}
+
+#trust{
+  text-align: center;
+  margin-top: 10%;
+}
+.about2{
+  color:#222831;
+  text-align:left;
+  margin-left:10%;
+  padding-inline: 5%;
+  font-size: 20px;
+  font-weight:500px;
+  padding-top: 5%;
+  padding-inline-start: 8%
+  font-family: 'Merriweather', serif;
+}
+.icons{
+  color:#6e7c7c;
+}
+.icon{
+  padding:1%;
+}
+#section5{
+  box-sizing: content-box;
+  width:80%;
+  height:800px;
+  background-color: #dddddd;
+  margin-top:10%;
+  margin-left:11%;
+text-align: center;
+}
+.heading{
+    padding-top: 13%;
+    font-size: 30px;
+
+}
+.image2{
+  padding-top: 3%;
+}
+.instance{
+color: #424642;
+  margin:2%;
+  text-align: center;
+  font-weight: bold;;
+}
